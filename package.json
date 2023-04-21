@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://1q6zet-4747.csb.app",
+  "proxy": "",
   "eslintConfig": {
     "extends": [
       "react-app",
